@@ -18,9 +18,11 @@ console.log(fullName);
 
 // Question 3:
 
-var frogType = true;
+let frogType = "frog";
+let typeOfAnimal = typeof frogType;
 
-console.log("the type of frog is", typeof(frogType));
+console.log("the type of frog is " + typeof frogType);
+
 
 // Question 4:
 
